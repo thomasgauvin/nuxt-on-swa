@@ -3,6 +3,7 @@
 const { data } = await useFetch('/api/hello')
 
 </script>
+
 <template>
     <div>
         <NuxtLink to="/">Home</NuxtLink>

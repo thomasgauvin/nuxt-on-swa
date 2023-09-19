@@ -1,0 +1,7 @@
+{
+  "date": "2023-09-19T19:20:33.006Z",
+  "preset": "azure",
+  "commands": {
+    "preview": "npx @azure/static-web-apps-cli start ./public --api-location ./server"
+  }
+}
